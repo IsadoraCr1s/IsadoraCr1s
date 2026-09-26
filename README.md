@@ -65,11 +65,13 @@ Curto misturar a estética *old school* com tecnologia de verdade — por isso e
 
 ▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
 
-## 🐍 A cobrinha comendo meus commits
+<p align="center">✦ ────────────── ✦ ────────────── ✦</p>
 
-<div align="center">
-<img src="https://raw.githubusercontent.com/SEU-USUARIO/SEU-USUARIO/output/github-contribution-grid-snake.svg" alt="cobrinha comendo commits" />
-</div>
+<h2 align="center">CONTRIBUIÇÕES</h2>
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/SEU-USUARIO/SEU-USUARIO/output/github-contribution-grid-snake-dark.svg" width="100%" />
+</p>
 
 > Pra essa animação funcionar no seu perfil, é só seguir 3 passos rápidos:
 > 1. Troque `SEU-USUARIO` acima pelo seu usuário do GitHub (duas vezes no link).
